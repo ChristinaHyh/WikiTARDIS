@@ -15,10 +15,21 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
+
+/*
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
     formats: ["webp", "jpeg"],
+    outputDir: "./dist/img/optimized",
+    urlPath: "/img/optimized",
+  };
+*/
+
+function transformImage(src, cls, alt, sizes, widths = ["auto"]) {
+  let options = {
+    widths: widths,
+    formats: ["auto"],
     outputDir: "./dist/img/optimized",
     urlPath: "/img/optimized",
   };
