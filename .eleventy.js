@@ -16,7 +16,7 @@ const {
 
 const Image = require("@11ty/eleventy-img");
 
-
+/*
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
@@ -30,6 +30,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let metadata = Image.statsSync(src, options);
   return metadata;
 }
+*/
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
