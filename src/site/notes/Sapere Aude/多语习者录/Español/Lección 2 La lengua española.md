@@ -9,7 +9,7 @@
 >3. 
 
 
-> La lengua española no es patrimonio exclusivo de los españoles. El español es un idioma realmente universal. Es la lengua oficial de veinte países y una de las cinco lenguas oficiales de la Organización de las Naciones Unidas (O.N.U.). Los conquistadores, colonizadores e inmigrantes han extendido la lengua a todos los continentes. A partir del siglo dieciocho el mundo hispánico ha sufrido una crisis espiritual y política, pero el idioma español no ha manifestado síntomas de decadencia. Por el contrario, ha cuadruplicado su número de hablantes en los últimos ciento cincuenta años. Hoy es la lengua de más de trescientos millones de seres humanos, tercera en difusión en el mundo, después del chino y del inglés. 
+> [La lengua](obsidian://advanced-uri?vault=TARDIS&filepath=Sapere%2520Aude%252F%25E5%25A4%259A%25E8%25AF%25AD%25E4%25B9%25A0%25E8%2580%2585%25E5%25BD%2595%252FEspa%25C3%25B1ol%252Fnotas%252F%25E5%2590%258D%25E8%25AF%258D%25E7%259A%2584%25E6%2580%25A7%25E3%2580%2581%25E6%2595%25B0%25E5%2592%258C%25E5%2590%258C%25E6%25BA%2590.md) española no es patrimonio exclusivo de los españoles. El español es un idioma realmente universal. Es la lengua oficial de veinte países y una de las cinco lenguas oficiales de la Organización de las Naciones Unidas (O.N.U.). Los conquistadores, colonizadores e inmigrantes han extendido la lengua a todos los continentes. A partir del siglo dieciocho el mundo hispánico ha sufrido una crisis espiritual y política, pero el idioma español no ha manifestado síntomas de decadencia. Por el contrario, ha cuadruplicado su número de hablantes en los últimos ciento cincuenta años. Hoy es la lengua de más de trescientos millones de seres humanos, tercera en difusión en el mundo, después del chino y del inglés. 
 > 
 > El español se deriva del latín. Es la lengua romance que ha alcanzado mayor difusión, seguida a enorme distancia por el portugués, el francés y el italiano. 
 > 
@@ -23,9 +23,8 @@
 
 
 
-**同源分类：** 同源同义、同源近义、同源异义
 
-[[孤阅五百动词.xlsx]]
-[[西英中高阶词汇同源对照.xlsx]]
+
+
 
 
