@@ -20,6 +20,18 @@ ch：在a、o、u后发/h/，放在开头时发/ci/
 tsch：/tʃ/
 ung：/uɳ/
 
+
+**练习：**
+- Pferd, Pflaume
+- Katze, sitzen, Blitz
+- bereits, nachts, Rätsel
+- schön, Schüler, Schwung, schlau
+- tschüss, Tschechien
+- Haus, Tausch, laut, Maus
+- Leute, Deutschland, Täuschung
+- Keim, Zeit, nein, Meyer
+
+
 ## 德语字母的发音
 
 | **大写** | **小写** | **字母读音**  |
