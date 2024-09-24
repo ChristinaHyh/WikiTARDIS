@@ -30,3 +30,18 @@
 | **中性名词<br>Neutral Noun**   | das<br>ein                     | des<br>eines                               | dem<br>einem                          | das<br>ein                              |
 | **阴性名词<br>Feminine Noun**  | die<br>eine                    | der<br>einer                               | der<br>einer                          | die<br>eine                             |
 | **复数名词<br>Plural Noun**        | die<br>--                      | der<br>--                                  | den<br>--                             | die<br>--                               |
+<details>
+<summary>die &nbsp &nbsp der &nbsp &nbsp das &nbsp &nbsp dem &nbsp &nbsp den</summary>
+<audio controls>
+  <source src="https://huangyahui.com/img/user/TARDIS/Assets/2024/the-Deutsch.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</details>
+
+<details>
+<summary>ein &nbsp &nbsp eine &nbsp &nbsp eines &nbsp &nbsp einer &nbsp &nbsp einem &nbsp &nbsp einen</summary>
+<audio controls>
+  <source src="https://huangyahui.com/img/user/TARDIS/Assets/2024/aan-Deutsch.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</details>
