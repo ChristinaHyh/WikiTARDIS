@@ -22,7 +22,7 @@
 | D. 与格 | dem/einem Vater  | der/einer Katze | dem/einem Kind   | den Büchern |
 | A. 宾格 | den/einen Vater  | die/eine Katze  | das/ein Kind     | die Bücher  |
 
-## （不）冠词的性数格
+## （不）冠词的性数格⭐
 
 |                            | 主格 = 主语<br>Nominativ = Subject | 属格 = 所有格宾语<br>Genitive = Possessive Object | 与格 = 间接宾语<br>Dative = Indirect Object | 宾格 = 直接宾语<br>Accusative = Direct Object |
 | -------------------------- | ------------------------------ | ------------------------------------------ | ------------------------------------- | --------------------------------------- |
@@ -37,6 +37,7 @@
   Your browser does not support the audio element.
 </audio>
 </details>
+![[the-Deutsch.m4a]]
 
 <details>
 <summary>ein &nbsp &nbsp eine &nbsp &nbsp eines &nbsp &nbsp einer &nbsp &nbsp einem &nbsp &nbsp einen</summary>
@@ -45,3 +46,4 @@
   Your browser does not support the audio element.
 </audio>
 </details>
+![[aan-Deutsch.m4a]]
