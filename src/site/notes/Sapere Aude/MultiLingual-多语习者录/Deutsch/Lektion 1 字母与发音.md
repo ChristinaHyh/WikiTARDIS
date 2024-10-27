@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/deutsch/lektion-1/","dgPassFrontmatter":true}
 ---
 
-## 所见及所得的发音
+## 所见即所得的发音
 
 c: <font color="#31859b">/k/</font> 或 <font color="#e36c09">/ts/</font>，e.g. <font color="#31859b">C</font>al<font color="#e36c09">c</font>ium
 d: /t/ 或 /d/，在词尾一般发/t/，e.g. Land
