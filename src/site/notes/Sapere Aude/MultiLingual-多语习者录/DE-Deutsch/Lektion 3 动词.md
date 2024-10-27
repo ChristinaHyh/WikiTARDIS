@@ -51,7 +51,7 @@ collapse: closed
 ## 现在时不规则变位
 
 | Person  | haben (to have) | sein (to be)  | werden (to become) |
-|---------|-----------------|---------------|--------------------|
+| ------- | --------------- | ------------- | ------------------ |
 | 1. sig. | ich habe        | ich bin       | ich werde          |
 | 2. sig. | du hast         | du bist       | du wirst           |
 | 3. sig. | er/sie/es hat   | er/sie/es ist | er/sie/es wird     |
