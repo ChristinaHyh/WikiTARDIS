@@ -46,7 +46,7 @@ collapse: closed
 | 2.plr. 你们       | ihr kenn<font color="#c00000">t</font>       | ihr leucht<font color="#c00000">et</font>       | ihr -<font color="#c00000">(e)t</font>       |
 | 3.plr. 他们/她们/它们 | Sie/sie kenn<font color="#c00000">en</font>  | Sie/sie leucht<font color="#c00000">en</font>   | Sie/sie -<font color="#c00000">en</font>     |
 
-*为了防止单词-tt无法发音，因此存在-est的变化
+*<small>为了防止单词-tt无法发音，因此存在-est的变化</small>*
 
 ## 现在时不规则变位
 
