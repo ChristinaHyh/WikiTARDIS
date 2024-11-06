@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/de-deutsch/lektion-3/","dgPassFrontmatter":true}
 ---
 
-## 初识动词
+# 初识动词
 **德语中的所有动词都是以-n或-en结尾**
 
 词干-词尾：wander-n
@@ -36,7 +36,12 @@ collapse: closed
 
 ```
 
-## 动词现在时规则变位
+# 动词的变位
+## 现在时
+
+德语中现在时包括了英语中的一般现在时和现在进行时
+### 动词现在时规则变位
+
 | 人称              | kenn<font color="#c00000">en</font> (认识，了解)  | leucht<font color="#c00000">en</font> (发光，照耀)                                | 总结                                           |
 | --------------- | -------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
 | 1.sig. 我        | ich kenn<font color="#c00000">e</font>       | ich leucht<font color="#c00000">e</font>        | ich -<font color="#c00000">e</font>          |
@@ -48,7 +53,7 @@ collapse: closed
 
 *<small>为了防止单词-tt无法发音，因此存在-est的变化</small>*
 
-## 现在时不规则变位
+### 动词现在时不规则变位
 
 | Person  | haben (to have) | sein (to be)  | werden (to become) |
 | ------- | --------------- | ------------- | ------------------ |
@@ -62,3 +67,5 @@ collapse: closed
 - [sein变位发音](https://www.godic.net/dicts/de/sein)
 - [werden变位发音](https://www.godic.net/dicts/de/werden)
 
+## 将来时
+werden + 不定时（Infinitiv）

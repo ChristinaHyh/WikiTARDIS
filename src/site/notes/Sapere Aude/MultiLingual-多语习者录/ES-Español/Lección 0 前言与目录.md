@@ -8,3 +8,10 @@
 选用教材：[Spanish for Reading](https://www.amazon.com/Spanish-Reading-Self-Instructional-Fabiola-Franco/dp/0764103334)
 词汇教材：[Spanish-English Bilingual Visual Dictionary](https://www.amazon.com/Spanish-English-Bilingual-Dictionary-Dictionaries/dp/1465459316)
 辅助工具：[西语助手](https://www.eudic.net/v4/es/app/eshelper)
+
+| 序号  | 知识点 | 学习目标 |
+| :-: | :-: | ---- |
+|  1  |     |      |
+|  2  |     |      |
+|  3  |     |      |
+|  4  |     |      |
