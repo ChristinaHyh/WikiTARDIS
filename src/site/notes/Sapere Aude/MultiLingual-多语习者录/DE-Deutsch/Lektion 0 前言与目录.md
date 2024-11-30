@@ -8,3 +8,5 @@
 选用教材：[German for Reading](https://www.amazon.com/German-Reading-Programmed-Approach-Undergraduate/dp/0133540197)
 教材音频：[每日德语听力](https://www.godic.net/webting/sharechannel?id=b4a570ee-9599-4efb-9930-6134708f70e0&ua=%2Feusoft_ting_de_android%2F10.0.0%2Fbf9cde3cc32fa91c_v%2F%2F%2F)
 辅助工具：[德语助手](https://www.francochinois.com/v4/de/app/dehelper)
+
+其中标⭐为需要熟记背诵的内容
