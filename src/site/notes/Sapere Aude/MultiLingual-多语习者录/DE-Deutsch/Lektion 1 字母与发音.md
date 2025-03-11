@@ -19,6 +19,9 @@ ei，ai，ey，ay: /ai/，e.g. bei
 ch：在a、o、u后发/h/，放在开头时发/ci/
 tsch：/tʃ/
 ung：/uɳ/
+w: /v/
+z: /ts/
+s: /z/
 
 
 **练习：**

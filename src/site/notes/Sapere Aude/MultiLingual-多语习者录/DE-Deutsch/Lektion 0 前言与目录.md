@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/de-deutsch/lektion-0/","dgPassFrontmatter":true}
 ---
 
-
 关于西语从0到1的学习记录，学于[孤阅万国学院](https://www.lonelyreader.com/respublica-linguae/)——[万国志·德语·零基础闪击战](https://lrl.lonelyreader.com/#/productDetail?productKeyId=C219)、[万国志·德语·硬核进击战](https://lrl.lonelyreader.com/#/productDetail?productKeyId=C220)
 
 选用教材：[German for Reading](https://www.amazon.com/German-Reading-Programmed-Approach-Undergraduate/dp/0133540197)
