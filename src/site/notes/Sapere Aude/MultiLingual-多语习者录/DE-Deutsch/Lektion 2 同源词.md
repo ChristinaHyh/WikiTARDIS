@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/de-deutsch/lektion-2/","dgPassFrontmatter":true,"created":"2025-02-23T11:52:57.824+08:00","updated":"2025-03-13T22:11:05.177+08:00"}
+{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/de-deutsch/lektion-2/","dgPassFrontmatter":true}
 ---
 
 德语中的同源词主要分为真同源词（true cognates）、部分同源词（partial cognates）、假同源词（false cognates）

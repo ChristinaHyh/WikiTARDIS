@@ -37,7 +37,10 @@
   Your browser does not support the audio element.
 </audio>
 </details>
+
+::: hidden
 ![[the-Deutsch.m4a]]
+:::
 
 <details>
 <summary>ein &nbsp &nbsp eine &nbsp &nbsp eines &nbsp &nbsp einer &nbsp &nbsp einem &nbsp &nbsp einen</summary>
@@ -46,4 +49,6 @@
   Your browser does not support the audio element.
 </audio>
 </details>
+::: hiden
 ![[aan-Deutsch.m4a]]
+:::
