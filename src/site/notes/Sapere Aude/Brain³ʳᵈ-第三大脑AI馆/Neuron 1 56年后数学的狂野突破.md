@@ -18,3 +18,13 @@
 - 人与 AI 的协作模式： AI 被视为一种工具，需要人类的指导和迭代精炼。
 - 超越传统 LLM 用法： Alpha Evolve 的方法通过搜索、评估和迭代改进，比简单地一次性查询 LLM 更强大得多。
 - 处理离散问题和评估困难： 系统如何通过辅助奖励、课程学习或评估级联来在难以直接优化的离散搜索空间中取得进展。
+
+## 湛叔小灶
+
+> 大家可能注意到 AlphaEvolve 的加法运算要比别的算法多很多次，但是没关系，现代计算机做加法飞快但是乘法比较慢所以
+
+![683021d2e4b071bc0705377a.png|500](/img/user/TARDIS/Assets/2025/683021d2e4b071bc0705377a.png)
+
+![AlphaEvolve_1.png](/img/user/TARDIS/Assets/2025/AlphaEvolve_1.png)
+![AlphaEvolve_2.png](/img/user/TARDIS/Assets/2025/AlphaEvolve_2.png)
+![AlphaEvolve_3.png](/img/user/TARDIS/Assets/2025/AlphaEvolve_3.png)
