@@ -23,7 +23,7 @@
 
 > 大家可能注意到 AlphaEvolve 的加法运算要比别的算法多很多次，但是没关系，现代计算机做加法飞快但是乘法比较慢所以
 
-![683021d2e4b071bc0705377a.png|500](/img/user/TARDIS/Assets/2025/683021d2e4b071bc0705377a.png)
+![683021d2e4b071bc0705377a.png|450](/img/user/TARDIS/Assets/2025/683021d2e4b071bc0705377a.png)
 
 ![AlphaEvolve_1.png](/img/user/TARDIS/Assets/2025/AlphaEvolve_1.png)
 ![AlphaEvolve_2.png](/img/user/TARDIS/Assets/2025/AlphaEvolve_2.png)
