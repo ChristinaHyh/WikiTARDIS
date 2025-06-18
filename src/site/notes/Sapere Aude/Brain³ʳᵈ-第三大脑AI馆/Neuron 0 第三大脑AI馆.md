@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sapere-aude/brain-ai/neuron-0-ai/","dgPassFrontmatter":true}
 ---
 
-> 零碎整理在[第三大脑](https://www.desiderando.net/)里小伙伴们的AI相关分享，有我个人习惯的分类，原始推荐记录见[文档](https://docs.qq.com/smartsheet/DRHF2SnJVZ1VvbE10?viewId=v2JKhc&tab=t00i2h)
+> 零碎整理在[第三大脑](https://www.desiderando.net/)里小伙伴们的AI相关分享，有我个人习惯的筛选和分类，感兴趣的自己加脑群
 
 |                                           东西                                           | 分类  |     日期     |
 | :------------------------------------------------------------------------------------: | :-: | :--------: |
