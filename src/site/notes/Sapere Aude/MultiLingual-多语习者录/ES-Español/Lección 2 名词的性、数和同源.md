@@ -50,115 +50,148 @@
 
 > **同源分类：** 同源同义、同源近义、同源异义
 
-<table>
-  <tr>
-    <th>规则</th>
-    <th>英语</th>
-    <th>西班牙语</th>
+### 同源同义
+
+| Español   | English   | 中文  |
+| --------- | --------- | --- |
+| geología  | geology   | 地质学 |
+| abril     | April     | 四月  |
+| montaña   | mountain  | 山   |
+| geografía | geography | 地理学 |
+
+### 同源近义
+
+| Español | English Cognate | But Also | 中文      |
+|---------|-----------------|----------|---------|
+| lengua  | language        | tongue   | 语言；舌头   |
+| idioma  | idiom           | language | 习语；语言   |
+| mayor   | major           | older    | 主要的；年长的 |
+| único   | unique          | only     | 独特的；唯一的 |
+
+### 同源异义
+
+| Español  | True Meaning   | Not                  | 中文      |
+|----------|----------------|----------------------|---------|
+| actual   | at this moment | "actual"             | 目前的，现在的 |
+| realizar | to achieve     | "to become aware of" | 实现，完成   |
+| lectura  | reading        | "lecture"            | 阅读      |
+| librería | bookstore      | "library"            | 书店      |
+
+
+### 名词同源词的常见规则
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="text-align: center;">规则</th>
+    <th style="text-align: center;">英语</th>
+    <th style="text-align: center;">西班牙语</th>
   </tr>
   <tr>
-    <td rowspan="3">-ism → -ismo</td>
-    <td>communism</td>
-    <td>comunismo</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ism → -ismo</td>
+    <td style="text-align: center;">communism</td>
+    <td style="text-align: center;">comunismo</td>
   </tr>
   <tr>
-    <td>capitalism</td>
-    <td>capitalismo</td>
+    <td style="text-align: center;">capitalism</td>
+    <td style="text-align: center;">capitalismo</td>
   </tr>
   <tr>
-    <td>liberalism</td>
-    <td>liberalismo</td>
+    <td style="text-align: center;">liberalism</td>
+    <td style="text-align: center;">liberalismo</td>
   </tr>
   <tr>
-    <td rowspan="3">-ist → -ista</td>
-    <td>socialist</td>
-    <td>socialista</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ist → -ista</td>
+    <td style="text-align: center;">socialist</td>
+    <td style="text-align: center;">socialista</td>
   </tr>
   <tr>
-    <td>tourist</td>
-    <td>turista</td>
+    <td style="text-align: center;">tourist</td>
+    <td style="text-align: center;">turista</td>
   </tr>
   <tr>
-    <td>feminist</td>
-    <td>feminista</td>
+    <td style="text-align: center;">feminist</td>
+    <td style="text-align: center;">feminista</td>
   </tr>
   <tr>
-    <td rowspan="3">-ity → -idad</td>
-    <td>reality</td>
-    <td>realidad</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ity → -idad</td>
+    <td style="text-align: center;">reality</td>
+    <td style="text-align: center;">realidad</td>
   </tr>
   <tr>
-    <td>university</td>
-    <td>universidad</td>
+    <td style="text-align: center;">university</td>
+    <td style="text-align: center;">universidad</td>
   </tr>
   <tr>
-    <td>security</td>
-    <td>seguridad</td>
+    <td style="text-align: center;">security</td>
+    <td style="text-align: center;">seguridad</td>
   </tr>
   <tr>
-    <td rowspan="3">-y → -io, -ía, -ia</td>
-    <td>dictionary</td>
-    <td>diccionario</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-y → -io, -ía, -ia</td>
+    <td style="text-align: center;">dictionary</td>
+    <td style="text-align: center;">diccionario</td>
   </tr>
   <tr>
-    <td>technology</td>
-    <td>tecnología</td>
+    <td style="text-align: center;">technology</td>
+    <td style="text-align: center;">tecnología</td>
   </tr>
   <tr>
-    <td>colony</td>
-    <td>colonia</td>
+    <td style="text-align: center;">colony</td>
+    <td style="text-align: center;">colonia</td>
   </tr>
   <tr>
-    <td rowspan="3">-tion → -ción</td>
-    <td>classification</td>
-    <td>clasificación</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-tion → -ción</td>
+    <td style="text-align: center;">classification</td>
+    <td style="text-align: center;">clasificación</td>
   </tr>
   <tr>
-    <td>information</td>
-    <td>información</td>
+    <td style="text-align: center;">information</td>
+    <td style="text-align: center;">información</td>
   </tr>
   <tr>
-    <td>tradition</td>
-    <td>tradición</td>
+    <td style="text-align: center;">tradition</td>
+    <td style="text-align: center;">tradición</td>
   </tr>
   <tr>
-    <td rowspan="3">-sion → -sión</td>
-    <td>decision</td>
-    <td>decisión</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-sion → -sión</td>
+    <td style="text-align: center;">decision</td>
+    <td style="text-align: center;">decisión</td>
   </tr>
   <tr>
-    <td>invasion</td>
-    <td>invasión</td>
+    <td style="text-align: center;">invasion</td>
+    <td style="text-align: center;">invasión</td>
   </tr>
   <tr>
-    <td>possession</td>
-    <td>posesión</td>
+    <td style="text-align: center;">possession</td>
+    <td style="text-align: center;">posesión</td>
   </tr>
   <tr>
-    <td rowspan="3">-ance → -ancia</td>
-    <td>assistance</td>
-    <td>asistencia</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ance → -ancia</td>
+    <td style="text-align: center;">assistance</td>
+    <td style="text-align: center;">asistencia</td>
   </tr>
   <tr>
-    <td>elegance</td>
-    <td>elegancia</td>
+    <td style="text-align: center;">elegance</td>
+    <td style="text-align: center;">elegancia</td>
   </tr>
   <tr>
-    <td>distance</td>
-    <td>distancia</td>
+    <td style="text-align: center;">distance</td>
+    <td style="text-align: center;">distancia</td>
   </tr>
   <tr>
-    <td rowspan="3">-ence, -ency → -encia</td>
-    <td>independence</td>
-    <td>independencia</td>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ence, -ency → -encia</td>
+    <td style="text-align: center;">independence</td>
+    <td style="text-align: center;">independencia</td>
   </tr>
   <tr>
-    <td>evidence</td>
-    <td>evidencia</td>
+    <td style="text-align: center;">evidence</td>
+    <td style="text-align: center;">evidencia</td>
   </tr>
   <tr>
-    <td>experience</td>
-    <td>experiencia</td>
+    <td style="text-align: center;">experience</td>
+    <td style="text-align: center;">experiencia</td>
   </tr>
 </table>
+
+
+
 
