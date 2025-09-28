@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/es-espanol/leccion-4/","dgPassFrontmatter":true}
 ---
 
+
 >[!note] 简单记
 > 1. 形容词=to attach 属性投掷
-> 2. 一般情况重点记：形容词后置，性一致（阳-o，阴-a，-e辅音结尾都一样），数一致（元音结尾+s，辅音结尾+es）
+> 2. 一般情况重点记：形容词后置，性一致（阳-o，阴-a，-e/辅音结尾都一样），数一致（元音结尾+s，辅音结尾+es）
 > 3. 特殊情况特殊记：不可分割属性，量化，位置不同表义不同
 
 ## 形容词的本质

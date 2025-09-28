@@ -10,7 +10,8 @@
 
 
 
-![西语九十音.png](/img/user/TARDIS/Assets/2023/%E8%A5%BF%E8%AF%AD%E4%B9%9D%E5%8D%81%E9%9F%B3.png)![[西语发音九十音图练习音频示范.m4a]]<audio id="audio" controls="" preload="none">
+![西语九十音.png](/img/user/TARDIS/Assets/2023/%E8%A5%BF%E8%AF%AD%E4%B9%9D%E5%8D%81%E9%9F%B3.png)
+![[西语发音九十音图练习音频示范.m4a]]<audio id="audio" controls="" preload="none">
 <source id="mp3" src="https://huangyahui.com/img/user/TARDIS/Assets/2024/ES90.mp3">
 </audio>
 

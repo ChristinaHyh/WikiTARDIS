@@ -37,10 +37,10 @@
 
 **不定冠词a/some**
 
-|      | 阳性 | 阴性 |
-| ---- | ---- | ---- |
-| 单数 | un   |  una    |
-| 复数     |  unos    |  unas    |
+|     | 阳性   | 阴性   |
+| --- | ---- | ---- |
+| 单数  | un   | una  |
+| 复数  | unos | unas |
 - un chino 一个中国男人
 - unos chinos 某些中国男人
 - una china 一个中国女人
@@ -48,10 +48,117 @@
 
 ## 名词的同源
 
-
-
 > **同源分类：** 同源同义、同源近义、同源异义
 
-![名词同源-1.jpg](/img/user/TARDIS/Assets/2023/%E5%90%8D%E8%AF%8D%E5%90%8C%E6%BA%90-1.jpg)
-![名词同源-2.jpg](/img/user/TARDIS/Assets/2023/%E5%90%8D%E8%AF%8D%E5%90%8C%E6%BA%90-2.jpg)
+<table>
+  <tr>
+    <th>规则</th>
+    <th>英语</th>
+    <th>西班牙语</th>
+  </tr>
+  <tr>
+    <td rowspan="3">-ism → -ismo</td>
+    <td>communism</td>
+    <td>comunismo</td>
+  </tr>
+  <tr>
+    <td>capitalism</td>
+    <td>capitalismo</td>
+  </tr>
+  <tr>
+    <td>liberalism</td>
+    <td>liberalismo</td>
+  </tr>
+  <tr>
+    <td rowspan="3">-ist → -ista</td>
+    <td>socialist</td>
+    <td>socialista</td>
+  </tr>
+  <tr>
+    <td>tourist</td>
+    <td>turista</td>
+  </tr>
+  <tr>
+    <td>feminist</td>
+    <td>feminista</td>
+  </tr>
+  <tr>
+    <td rowspan="3">-ity → -idad</td>
+    <td>reality</td>
+    <td>realidad</td>
+  </tr>
+  <tr>
+    <td>university</td>
+    <td>universidad</td>
+  </tr>
+  <tr>
+    <td>security</td>
+    <td>seguridad</td>
+  </tr>
+  <tr>
+    <td rowspan="3">-y → -io, -ía, -ia</td>
+    <td>dictionary</td>
+    <td>diccionario</td>
+  </tr>
+  <tr>
+    <td>technology</td>
+    <td>tecnología</td>
+  </tr>
+  <tr>
+    <td>colony</td>
+    <td>colonia</td>
+  </tr>
+  <tr>
+    <td rowspan="3">-tion → -ción</td>
+    <td>classification</td>
+    <td>clasificación</td>
+  </tr>
+  <tr>
+    <td>information</td>
+    <td>información</td>
+  </tr>
+  <tr>
+    <td>tradition</td>
+    <td>tradición</td>
+  </tr>
+  <tr>
+    <td rowspan="3">-sion → -sión</td>
+    <td>decision</td>
+    <td>decisión</td>
+  </tr>
+  <tr>
+    <td>invasion</td>
+    <td>invasión</td>
+  </tr>
+  <tr>
+    <td>possession</td>
+    <td>posesión</td>
+  </tr>
+  <tr>
+    <td rowspan="3">-ance → -ancia</td>
+    <td>assistance</td>
+    <td>asistencia</td>
+  </tr>
+  <tr>
+    <td>elegance</td>
+    <td>elegancia</td>
+  </tr>
+  <tr>
+    <td>distance</td>
+    <td>distancia</td>
+  </tr>
+  <tr>
+    <td rowspan="3">-ence, -ency → -encia</td>
+    <td>independence</td>
+    <td>independencia</td>
+  </tr>
+  <tr>
+    <td>evidence</td>
+    <td>evidencia</td>
+  </tr>
+  <tr>
+    <td>experience</td>
+    <td>experiencia</td>
+  </tr>
+</table>
 
