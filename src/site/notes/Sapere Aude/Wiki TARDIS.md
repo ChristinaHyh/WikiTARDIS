@@ -8,6 +8,8 @@ Ahoy! Here is Christina's Wiki TARDIS.
 
 ¡Ay! Aquí está la Wiki TARDIS de Christina.
 
+Ahoi! Hier ist die Wiki-TARDIS von Christina.
+
 Ахой! Вот Вики ТАРДИС Кристины.
 
 アホイ！クリスティーナの Wiki TARDIS はこちらです。
