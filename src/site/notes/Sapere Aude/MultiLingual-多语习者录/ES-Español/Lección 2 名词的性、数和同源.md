@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/es-espanol/leccion-2/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/ES-Español/Lección 2 名词的性、数和同源.md","permalink":"/multi-lingual/es-espanol/leccion-2/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
@@ -76,7 +76,6 @@
 | realizar | to achieve     | "to become aware of" | 实现，完成   |
 | lectura  | reading        | "lecture"            | 阅读      |
 | librería | bookstore      | "library"            | 书店      |
-
 
 ### 名词同源词的常见规则
 

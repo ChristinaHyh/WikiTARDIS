@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/brain-ai/neuron-4-56/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Brain³ʳᵈ-第三大脑AI馆/Neuron 4 56年后数学的狂野突破.md","permalink":"/brain-ai/neuron-4-56/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 > [Wild breakthrough on Math after 56 years](https://www.youtube.com/watch?v=vC9nAosXrJw&t=1888s)
@@ -23,7 +23,7 @@
 
 > 大家可能注意到 AlphaEvolve 的加法运算要比别的算法多很多次，但是没关系，现代计算机做加法飞快但是乘法比较慢所以
 
-![683021d2e4b071bc0705377a.png|450](/img/user/TARDIS/Assets/2025/683021d2e4b071bc0705377a.png)
+![683021d2e4b071bc0705377a.png\|450](/img/user/TARDIS/Assets/2025/683021d2e4b071bc0705377a.png)
 
 ![AlphaEvolve-1.png](/img/user/TARDIS/Assets/2025/AlphaEvolve-1.png)
 ![AlphaEvolve-2.png](/img/user/TARDIS/Assets/2025/AlphaEvolve-2.png)

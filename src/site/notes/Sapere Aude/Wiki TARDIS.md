@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/sapere-aude/wiki-tardis/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"dg-path":"Wiki TARDIS.md","permalink":"/wiki-tardis/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 哟！我是[Christina](https://www.hyahui.com)，这里是我的知识百科。

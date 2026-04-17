@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/de-deutsch/lektion-0/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 0 前言与目录.md","permalink":"/multi-lingual/de-deutsch/lektion-0/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 关于西语从0到1的学习记录，学于[孤阅万国学院](https://www.lonelyreader.com/respublica-linguae/)——[万国志·德语·零基础闪击战](https://lrl.lonelyreader.com/#/productDetail?productKeyId=C219)、[万国志·德语·硬核进击战](https://lrl.lonelyreader.com/#/productDetail?productKeyId=C220)

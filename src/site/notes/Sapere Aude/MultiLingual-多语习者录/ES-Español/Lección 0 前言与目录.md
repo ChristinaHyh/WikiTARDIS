@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/es-espanol/leccion-0/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/ES-Español/Lección 0 前言与目录.md","permalink":"/multi-lingual/es-espanol/leccion-0/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

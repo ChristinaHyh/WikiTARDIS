@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/de-deutsch/lektion-3/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 3 名词.md","permalink":"/multi-lingual/de-deutsch/lektion-3/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 德语中的名词首字母都是大写的
@@ -12,6 +12,7 @@
 - 变音：Vater - Väter
 - 不变：Onkel - Onkel
 
+==补充例子==
 # 名词的格
 > “格”表示名词性成分（名词、冠词、形容词、代词）在句子中的位置和作用，德语中有四个格位：主格N.、属格G.、与格D.、宾格A.
 
@@ -47,6 +48,7 @@
   Your browser does not support the audio element.
 </audio>
 </details>
+
 
 
 

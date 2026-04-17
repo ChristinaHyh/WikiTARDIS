@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/de-deutsch/lektion-5/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 5 复合词.md","permalink":"/multi-lingual/de-deutsch/lektion-5/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
 
 > **复合词**：由两个或两个以上的单词组合在一起，变成一个新的词。复合词的词性一般随最后一个词。
-
-
 
 ## 直接叠加（名词+名词）
 

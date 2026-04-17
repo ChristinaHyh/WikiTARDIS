@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapere-aude/multi-lingual/es-espanol/leccion-4/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/ES-Español/Lección 4 形容词的性、数和同源.md","permalink":"/multi-lingual/es-espanol/leccion-4/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
@@ -55,9 +55,140 @@
 
 ## 形容词的同源
 
-![形容词同源-1.png](/img/user/TARDIS/Assets/2024/%E5%BD%A2%E5%AE%B9%E8%AF%8D%E5%90%8C%E6%BA%90-1.png)
-
-![形容词同源-2.png](/img/user/TARDIS/Assets/2024/%E5%BD%A2%E5%AE%B9%E8%AF%8D%E5%90%8C%E6%BA%90-2.png)
-
-![形容词同源-3.png](/img/user/TARDIS/Assets/2024/%E5%BD%A2%E5%AE%B9%E8%AF%8D%E5%90%8C%E6%BA%90-3.png)
-
+<table border="1" style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#f2f2f2;">
+    <th style="text-align: center;">规则</th>
+    <th style="text-align: center;">英语</th>
+    <th style="text-align: center;">西班牙语</th>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-nt → -nte</td>
+    <td style="text-align: center;">arrogant</td>
+    <td style="text-align: center;">arrogante</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">important</td>
+    <td style="text-align: center;">importante</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">urgent</td>
+    <td style="text-align: center;">urgente</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ous → -oso</td>
+    <td style="text-align: center;">famous</td>
+    <td style="text-align: center;">famoso</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">ambitious</td>
+    <td style="text-align: center;">ambicioso</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">religious</td>
+    <td style="text-align: center;">religioso</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ary → -ario</td>
+    <td style="text-align: center;">extraordinary</td>
+    <td style="text-align: center;">extraordinario</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">necessary</td>
+    <td style="text-align: center;">necesario</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">primary</td>
+    <td style="text-align: center;">primario</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ile → -il</td>
+    <td style="text-align: center;">fragile</td>
+    <td style="text-align: center;">frágil</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">juvenile</td>
+    <td style="text-align: center;">juvenil</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">mobile</td>
+    <td style="text-align: center;">móvil</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-al → -al</td>
+    <td style="text-align: center;">accidental</td>
+    <td style="text-align: center;">accidental</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">tropical</td>
+    <td style="text-align: center;">tropical</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">immortal</td>
+    <td style="text-align: center;">inmortal</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ble → -ble</td>
+    <td style="text-align: center;">favorable</td>
+    <td style="text-align: center;">favorable</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">reasonable</td>
+    <td style="text-align: center;">razonable</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">visible</td>
+    <td style="text-align: center;">visible</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ic → -ico</td>
+    <td style="text-align: center;">academic</td>
+    <td style="text-align: center;">académico</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">ethnic</td>
+    <td style="text-align: center;">étnico</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">romantic</td>
+    <td style="text-align: center;">romántico</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-id → -ido</td>
+    <td style="text-align: center;">rapid</td>
+    <td style="text-align: center;">rápido</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">splendid</td>
+    <td style="text-align: center;">espléndido</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">valid</td>
+    <td style="text-align: center;">válido</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-iv → -ivo</td>
+    <td style="text-align: center;">attractive</td>
+    <td style="text-align: center;">atractivo</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">negative</td>
+    <td style="text-align: center;">negativo</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">quantitative</td>
+    <td style="text-align: center;">cuantitativo</td>
+  </tr>
+  <tr>
+    <td rowspan="3" style="text-align: center; vertical-align: middle;">-ct → -cto</td>
+    <td style="text-align: center;">perfect</td>
+    <td style="text-align: center;">perfecto</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">correct</td>
+    <td style="text-align: center;">correcto</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">exact</td>
+    <td style="text-align: center;">exacto</td>
+  </tr>
+</table>
