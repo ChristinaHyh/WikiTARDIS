@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 5 复合词.md","permalink":"/multi-lingual/de-deutsch/lektion-5/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 5 复合词.md","permalink":"/MultiLingual-多语习者录/DE-Deutsch/Lektion 5 复合词/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

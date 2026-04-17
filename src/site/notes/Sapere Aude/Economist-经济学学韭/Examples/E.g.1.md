@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Economist-经济学学韭/Examples/E.g.1.md","permalink":"/economist/examples/e-g-1/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Economist-经济学学韭/Examples/E.g.1.md","permalink":"/Economist-经济学学韭/Examples/E.g.1/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

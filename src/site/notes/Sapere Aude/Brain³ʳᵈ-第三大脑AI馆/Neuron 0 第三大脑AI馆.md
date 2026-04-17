@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Brain³ʳᵈ-第三大脑AI馆/Neuron 0 第三大脑AI馆.md","permalink":"/brain-ai/neuron-0-ai/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Brain³ʳᵈ-第三大脑AI馆/Neuron 0 第三大脑AI馆.md","permalink":"/Brain³ʳᵈ-第三大脑AI馆/Neuron 0 第三大脑AI馆/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 > 零碎整理在[第三大脑](https://www.desiderando.net/)里小伙伴们的AI相关分享，有我个人习惯的筛选和分类，感兴趣的自己加脑群

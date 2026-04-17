@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/ES-Español/Lección 4 形容词的性、数和同源.md","permalink":"/multi-lingual/es-espanol/leccion-4/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/ES-Español/Lección 4 形容词的性、数和同源.md","permalink":"/MultiLingual-多语习者录/ES-Español/Lección 4 形容词的性、数和同源/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

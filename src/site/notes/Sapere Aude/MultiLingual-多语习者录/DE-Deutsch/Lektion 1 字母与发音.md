@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 1 字母与发音.md","permalink":"/multi-lingual/de-deutsch/lektion-1/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 1 字母与发音.md","permalink":"/MultiLingual-多语习者录/DE-Deutsch/Lektion 1 字母与发音/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # 所见即所得的发音

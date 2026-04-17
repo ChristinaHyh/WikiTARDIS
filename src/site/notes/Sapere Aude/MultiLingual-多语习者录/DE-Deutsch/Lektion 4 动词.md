@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 4 动词.md","permalink":"/multi-lingual/de-deutsch/lektion-4/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 4 动词.md","permalink":"/MultiLingual-多语习者录/DE-Deutsch/Lektion 4 动词/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # 初识动词

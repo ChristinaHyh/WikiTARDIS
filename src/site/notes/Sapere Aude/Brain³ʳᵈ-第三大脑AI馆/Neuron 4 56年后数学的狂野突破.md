@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Brain³ʳᵈ-第三大脑AI馆/Neuron 4 56年后数学的狂野突破.md","permalink":"/brain-ai/neuron-4-56/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Brain³ʳᵈ-第三大脑AI馆/Neuron 4 56年后数学的狂野突破.md","permalink":"/Brain³ʳᵈ-第三大脑AI馆/Neuron 4 56年后数学的狂野突破/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 > [Wild breakthrough on Math after 56 years](https://www.youtube.com/watch?v=vC9nAosXrJw&t=1888s)

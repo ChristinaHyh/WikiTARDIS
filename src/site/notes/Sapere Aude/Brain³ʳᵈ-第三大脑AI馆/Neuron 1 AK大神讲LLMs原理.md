@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Brain³ʳᵈ-第三大脑AI馆/Neuron 1 AK大神讲LLMs原理.md","permalink":"/brain-ai/neuron-1-ak-ll-ms/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Brain³ʳᵈ-第三大脑AI馆/Neuron 1 AK大神讲LLMs原理.md","permalink":"/Brain³ʳᵈ-第三大脑AI馆/Neuron 1 AK大神讲LLMs原理/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 > [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)

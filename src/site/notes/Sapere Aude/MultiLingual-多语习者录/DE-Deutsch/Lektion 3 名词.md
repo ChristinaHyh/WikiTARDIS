@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 3 名词.md","permalink":"/multi-lingual/de-deutsch/lektion-3/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/DE-Deutsch/Lektion 3 名词.md","permalink":"/MultiLingual-多语习者录/DE-Deutsch/Lektion 3 名词/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 德语中的名词首字母都是大写的

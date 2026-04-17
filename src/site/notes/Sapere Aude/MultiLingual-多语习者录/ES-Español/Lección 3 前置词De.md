@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/ES-Español/Lección 3 前置词De.md","permalink":"/multi-lingual/es-espanol/leccion-3-de/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"MultiLingual-多语习者录/ES-Español/Lección 3 前置词De.md","permalink":"/MultiLingual-多语习者录/ES-Español/Lección 3 前置词De/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
