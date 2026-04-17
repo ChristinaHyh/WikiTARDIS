@@ -9,25 +9,19 @@
     "The Machine-机器与学习"
   ],
   "/AI Scope-赛博拾荒站": [
-    "Neuron 0 第三大脑AI馆",
-    "Neuron 1 AK大神讲LLMs原理",
-    "Neuron 2 量化金融",
-    "Neuron 3 MCP：使用 Anthropic构建AI应用程序",
-    "Neuron 4 56年后数学的狂野突破",
-    "Neuron 5 Blockchain入门 - 可视化演示"
+    "Neuron 000 AI 拾荒站",
+    "Neuron 001 AK大神讲LLMs原理",
+    "Neuron 002 量化金融",
+    "Neuron 003 MCP：使用 Anthropic构建AI应用程序",
+    "Neuron 004 56年后数学的狂野突破",
+    "Neuron 005 Blockchain入门 - 可视化演示"
   ],
   "/Economist-经济学学韭": [
-    "Examples",
-    "汇率经济学",
-    "金融学框架搭建",
-    "经济为什么会增长"
-  ],
-  "/Economist-经济学学韭/Examples": [
-    "E.g.1"
+    "Coin 001 经济为什么会增长"
   ],
   "/Idyllic Reader-书摘三道贩": [
-    "00-前言",
-    "人地之间"
+    "Note 000 书摘小贩",
+    "Note 001 人地之间"
   ],
   "/Multilingual-多语习者录": [
     "DE-Deutsch",
@@ -44,13 +38,13 @@
     "Lektion 5 复合词"
   ],
   "/Multilingual-多语习者录/ES-Español": [
-    "notas",
     "Lección 0 前言与目录",
     "Lección 1 字母与发音",
     "Lección 2 名词的性、数和同源",
     "Lección 3 前置词De",
     "Lección 4 形容词的性、数和同源",
-    "Lección 6 副词同源及其他同源形近规律"
+    "Lección 6 副词同源及其他同源形近规律",
+    "notas"
   ],
   "/Multilingual-多语习者录/ES-Español/notas": [
     "西语九十音"
@@ -67,8 +61,7 @@
     "第 8 課 动词句"
   ],
   "/Multilingual-多语习者录/RU-Русский": [
-    "Библиотека слов",
-    "Урок 00 前言",
+    "Урок 00 前言与目录",
     "Урок 01 俄语字母",
     "Урок 02 基础音变",
     "Урок 03 硬软辅音",
@@ -82,7 +75,8 @@
     "Урок 11 谓语副词",
     "Урок 12 运动动词",
     "Урок 13 动词的体",
-    "Урок 14 形容词的格"
+    "Урок 14 形容词的格",
+    "Библиотека слов"
   ],
   "/Multilingual-多语习者录/RU-Русский/Библиотека слов": [
     "附录 常用句式",
@@ -99,9 +93,9 @@
     "德意志史"
   ],
   "/!Philosopher-非哲人思考/欧洲国别史/德意志史": [
-    "德国相关概念及历史疆域"
+    "01-德国相关概念及历史疆域"
   ],
   "/The Machine-机器与学习": [
-    "Admin 前言"
+    "Byte 000 ROOT"
   ]
 }
