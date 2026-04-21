@@ -11,4 +11,5 @@
 | [[Sapere Aude/AI Scope-赛博拾荒站/Neuron 003 MCP：使用 Anthropic构建AI应用程序\|Neuron 003 MCP：使用 Anthropic构建AI应用程序]] | 课程  | 2025.05.15 |
 |              [[Sapere Aude/AI Scope-赛博拾荒站/Neuron 004 56年后数学的狂野突破\|Neuron 004 56年后数学的狂野突破]]              | 资讯  | 2025.05.18 |
 |     [[Sapere Aude/AI Scope-赛博拾荒站/Neuron 005 Blockchain入门 - 可视化演示\|Neuron 005 Blockchain入门 - 可视化演示]]     | 课程  | 2025.05.30 |
+|              [[Sapere Aude/AI Scope-赛博拾荒站/Neuron 006 AI重现的泰坦尼克之旅\|Neuron 006 AI重现的泰坦尼克之旅]]              | 视频  | 2026.04.21 |
 |                                                                                                         |     |            |
