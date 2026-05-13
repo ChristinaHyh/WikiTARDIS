@@ -11,3 +11,17 @@ body {
     //   color: black;
     //  }
 }
+@media (max-width: 1000px) {
+  .fullpage-overlay {
+    position: fixed !important;
+    z-index: 90 !important;
+  }
+
+  .filetree-wrapper {
+    z-index: 100 !important;
+  }
+
+  .sidebar {
+    z-index: 1 !important;
+  }
+}
