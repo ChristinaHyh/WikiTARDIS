@@ -11,6 +11,47 @@ body {
     //   color: black;
     //  }
 }
+@import url('https://fonts.loli.net/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;1,400&display=swap');
+
+:root {
+  --font-text: 'JetBrains Mono', monospace;
+  --font-interface: 'JetBrains Mono', monospace;
+  --font-monospace: 'JetBrains Mono', monospace;
+}
+
+body {
+  background: #0d0d0d !important;
+  color: #88bb88 !important;
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+h1 { color: #00ff41 !important; }
+h2 { color: #00e5ff !important; }
+h3 { color: #00cc33 !important; }
+
+a { color: #00e5ff !important; border-bottom: 1px solid #004455; text-decoration: none; }
+a:hover { color: #80f0ff !important; border-color: #80f0ff; }
+
+pre, code {
+  background: #060606 !important;
+  color: #00ff41 !important;
+  border-left: 3px solid #00cc33;
+  border-radius: 0 !important;
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+blockquote {
+  border-left: 2px solid #4a7a4a;
+  background: #0a0a0a;
+  color: #4a7a4a;
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #0d0d0d; }
+::-webkit-scrollbar-thumb { background: #1a3a1a; }
+::-webkit-scrollbar-thumb:hover { background: #00cc33; }
+
 @media (max-width: 1000px) {
   .fullpage-overlay {
     position: fixed !important;
@@ -25,3 +66,4 @@ body {
     z-index: 1 !important;
   }
 }
+
