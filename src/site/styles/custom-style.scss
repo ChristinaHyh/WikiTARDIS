@@ -1,3 +1,190 @@
+/* =========================================================
+   1. 标题设计变量
+   ========================================================= */
+
+:root,
+body {
+  /* 统一标题颜色 */
+  --dg-heading-color: #6a8695;
+
+  /* 标题字号 */
+  --h1-size: 1.8em;
+  --h2-size: 1.5em;
+  --h3-size: 1.3em;
+  --h4-size: 1.17em;
+  --h5-size: 1.08em;
+  --h6-size: 1em;
+
+  /* 标题字重 */
+  --h1-weight: 700;
+  --h2-weight: 700;
+  --h3-weight: 700;
+  --h4-weight: 600;
+  --h5-weight: 600;
+  --h6-weight: 600;
+
+  /* 标题颜色 */
+  --h1-color: var(--dg-heading-color);
+  --h2-color: var(--dg-heading-color);
+  --h3-color: var(--dg-heading-color);
+  --h4-color: var(--dg-heading-color);
+  --h5-color: var(--dg-heading-color);
+  --h6-color: var(--dg-heading-color);
+
+  /* 取消 Minimal 对部分标题的特殊字体形式 */
+  --h1-style: normal;
+  --h2-style: normal;
+  --h3-style: normal;
+  --h4-style: normal;
+  --h5-style: normal;
+  --h6-style: normal;
+
+  --h1-variant: normal;
+  --h2-variant: normal;
+  --h3-variant: normal;
+  --h4-variant: normal;
+  --h5-variant: normal;
+  --h6-variant: normal;
+}
+
+
+/* =========================================================
+   2. 标题通用样式
+   ========================================================= */
+
+.markdown-preview-view :is(h1, h2, h3, h4, h5, h6),
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
+  color: var(--dg-heading-color);
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1.35;
+
+  /*
+   * 避免锚点跳转后标题被顶部区域遮挡
+   */
+  scroll-margin-top: 5rem;
+}
+
+
+/* =========================================================
+   3. 分级标题字号与字重
+   ========================================================= */
+
+.markdown-preview-view h1,
+.markdown-rendered h1 {
+  font-size: var(--h1-size);
+  font-weight: var(--h1-weight);
+}
+
+.markdown-preview-view h2,
+.markdown-rendered h2 {
+  font-size: var(--h2-size);
+  font-weight: var(--h2-weight);
+}
+
+.markdown-preview-view h3,
+.markdown-rendered h3 {
+  font-size: var(--h3-size);
+  font-weight: var(--h3-weight);
+}
+
+.markdown-preview-view h4,
+.markdown-rendered h4 {
+  font-size: var(--h4-size);
+  font-weight: var(--h4-weight);
+}
+
+.markdown-preview-view h5,
+.markdown-rendered h5 {
+  font-size: var(--h5-size);
+  font-weight: var(--h5-weight);
+}
+
+.markdown-preview-view h6,
+.markdown-rendered h6 {
+  font-size: var(--h6-size);
+  font-weight: var(--h6-weight);
+}
+
+
+/* =========================================================
+   4. 标题上下间距
+   ========================================================= */
+
+.markdown-preview-view :is(h1, h2, h3, h4, h5, h6),
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 1.7em;
+  margin-bottom: 0.6em;
+}
+
+/*
+ * 页面最前面的标题不需要额外上边距。
+ */
+.markdown-preview-view > h1:first-child,
+.markdown-rendered > h1:first-child {
+  margin-top: 0;
+}
+
+
+/* =========================================================
+   5. H2 章节分隔线
+   ========================================================= */
+
+
+.markdown-preview-view h2,
+.markdown-rendered h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid rgba(106, 134, 149, 0.3);
+}
+
+
+/* =========================================================
+   6. 标题内部链接
+   ========================================================= */
+
+.markdown-preview-view :is(h1, h2, h3, h4, h5, h6) a,
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) a {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
+
+.markdown-preview-view :is(h1, h2, h3, h4, h5, h6) a:hover,
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+
+/* =========================================================
+   7. 移动端标题优化
+   ========================================================= */
+
+@media (max-width: 600px) {
+  :root,
+  body {
+    --h1-size: 1.55em;
+    --h2-size: 1.36em;
+    --h3-size: 1.23em;
+    --h4-size: 1.14em;
+    --h5-size: 1.07em;
+    --h6-size: 1em;
+  }
+
+  .markdown-preview-view :is(h1, h2, h3, h4, h5, h6),
+  .markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
+    margin-top: 1.5em;
+    margin-bottom: 0.55em;
+    line-height: 1.4;
+  }
+}
+
+
+/* =========================================================
+   8. 原有移动端侧边栏和遮罩层修复
+   ========================================================= */
+
 @media (max-width: 1000px) {
   .fullpage-overlay {
     position: fixed !important;
@@ -12,4 +199,3 @@
     z-index: 1 !important;
   }
 }
-
